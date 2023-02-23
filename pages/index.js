@@ -36,7 +36,7 @@ export default function Home() {
           onChange={handleInputChange}
           placeholder="Escriba su texto aquí"
         />
-        <button type="submit">Completar</button>
+        <button type="submit">Preguntar</button>
       </form>
 
       <div className="response-container">
